@@ -1,0 +1,12 @@
+{
+	"x" : 0,
+	"y" : 0,
+	"width" : 240,
+	"height" : 240,
+	"sW": 24,
+	"sH": 24,
+	"length" : 15,
+	"cutFrames" : [],
+	"labels" : [{"name":"human","i":0,"e":2},{"name":"cat","i":3,"e":5},{"name":"spider","i":6,"e":8},{"name":"robot","i":9,"e":11},{"name":"waterdrop","i":12,"e":14}],
+	"timing" : 30
+}

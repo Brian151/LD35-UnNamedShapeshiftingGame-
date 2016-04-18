@@ -1,0 +1,12 @@
+the plan:
+[player]
+human -  interact with objs
+cat - climb tall stuff
+spider - into small gaps, possibly climbing and trap-laying
+robot - hack computer things
+water - walk on water, enter pipes
+[pend]
+block - invincible, heavy
+lava monster - walk on lava, set fires
+
+status at end of LD 35: incomplete, buggy

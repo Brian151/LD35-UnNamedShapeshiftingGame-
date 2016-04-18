@@ -1,0 +1,12 @@
+{
+	"x" : 0,
+	"y" : 0,
+	"width" : 240,
+	"height" : 240,
+	"sW": 24,
+	"sH": 24,
+	"length" : 5,
+	"cutFrames" : [],
+	"labels" : [{"name":"coin1","i":0,"e":0},{"name":"coin5","i":1,"e":1},{"name":"coin10","i":2,"e":2},{"name":"coin20","i":3,"e":3},{"name":"coin50","i":4,"e":4}],
+	"timing" : 1
+}

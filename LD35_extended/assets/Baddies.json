@@ -1,0 +1,12 @@
+{
+	"x" : 0,
+	"y" : 0,
+	"width" : 240,
+	"height" : 240,
+	"sW": 24,
+	"sH": 24,
+	"length" : 15,
+	"cutFrames" : [],
+	"labels" : [{"name":"spike","i":0,"e":0},{"name":"mouse","i":1,"e":1}],
+	"timing" : 30
+}

@@ -1,0 +1,12 @@
+{
+	"x" : 0,
+	"y" : 0,
+	"width" : 256,
+	"height" : 256,
+	"sW": 16,
+	"sH": 16,
+	"length" : 12,
+	"cutFrames" : [],
+	"labels" : [{"name":"tiles","i":0,"e":255}],
+	"timing" : 1
+}

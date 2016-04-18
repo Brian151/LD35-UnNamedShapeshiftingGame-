@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<style type="text/css">
+			canvas{
+				border: 3px solid black;
+			}
+			h4 {
+				margin: 2px;
+			}
+			#instruct{
+				font-weight:bold;
+			}
+		</style>
+		<title>Ludum Dare 35</title>
+		<meta name="description" content="Ludum Dare 35">
+		<meta name="author" content="brian151 (github)">
+		<meta name="organization" content="Quality Cat Games">
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<canvas id="gameScreen" width="608" height="400">Your browser doesn't support HTML5 Canvas!!!</canvas>
+		<script src="scripts/GameLib/core/InputManager.js"></script>
+		<script src="scripts/GameLib/core/Game.js"></script>
+		<script src="scripts/GameLib/gfx/GraphicsHandler.js"></script>
+		<script src="scripts/GameLib/assets/AssetManager.js"></script>
+		<script src="scripts/GameLib/assets/SpriteSheet.js"></script>
+		<script src="scripts/GameLib/assets/Sprite.js"></script>
+		<script src="scripts/LD35/Tile.js"></script>
+		<script src="scripts/LD35/checkCollision.js"></script>
+		<script src="scripts/LD35/Player.js"></script>
+		<script src="scripts/LD35/Spikes.js"></script>
+		<script src="scripts/LD35/Lava.js"></script>
+		<script src="scripts/LD35/Water.js"></script>
+		<script src="scripts/LD35/Coin.js"></script>
+		<script src="scripts/LD35/Wall.js"></script>
+		<script src="scripts/LD35/EnemyMouse.js"></script>
+		<script src="scripts/LD35.js"></script>
+		<h3>instructions</h3>
+		<div id="instruct">
+		arrow keys to move | select level<br/>
+		space to transform
+		<hr/>
+		L to start level , M to go to menu screen , C to go to credits screen
+		</div>
+		<canvas id="screenP" style="display:none" width="600" height="400">Your browser doesn't support HTML5 Canvas!!!</canvas>
+	</body>
+</html>
